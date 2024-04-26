@@ -1,0 +1,6 @@
+@PGPReact.Server_HostAddress = http://localhost:5053
+
+GET {{PGPReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
